@@ -1,4 +1,4 @@
-module github.com/golang/protobuf
+module github.com/Richie12138/protobuf
 
 go 1.9
 
